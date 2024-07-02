@@ -1,6 +1,3 @@
-```markdown
-# Docker项目部署
-
 ## 目录
 
 1. [安装 Docker 和 Docker Compose](#安装-docker-和-docker-compose)
